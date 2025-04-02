@@ -39,35 +39,35 @@ const websiteLinks: WebsiteLink[] = [
   },
   {
     title: "LK Geek Gaming",
-    description: "The pride of Sri Lankan technical artists",
+    description: "Expert insights and innovations in gaming",
     url: "https://gaming.lkgeekofficial.com",
     icon: <Gamepad2 className="h-6 w-6" />,
     image: "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?q=80&w=800&auto=format&fit=crop"
   },
   {
     title: "LK Geek Edu",
-    description: "The pride of Sri Lankan technical artists",
+    description: "Advancing learning through technical excellence",
     url: "https://edu.lkgeekofficial.com",
     icon: <GraduationCap className="h-6 w-6" />,
     image: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=800&auto=format&fit=crop"
   },
   {
     title: "LK Geek Electronic",
-    description: "The pride of Sri Lankan technical artists",
+    description: "Showcasing cutting-edge electronic advancements",
     url: "https://electronic.lkgeekofficial.com",
     icon: <CircuitBoard className="h-6 w-6" />,
     image: "https://images.unsplash.com/photo-1498049794561-7780e7231661?q=80&w=800&auto=format&fit=crop"
   },
   {
     title: "LK Geek Store",
-    description: "The pride of Sri Lankan technical artists",
+    description: "Your trusted source for premium tech products",
     url: "https://store.lkgeekofficial.com",
     icon: <Store className="h-6 w-6" />,
     image: "https://images.unsplash.com/photo-1472851294608-062f824d29cc?q=80&w=800&auto=format&fit=crop"
   },
   {
     title: "LK Geek Trading",
-    description: "The pride of Sri Lankan technical artists",
+    description: "Smart solutions for tech-driven commerce",
     url: "https://trading.lkgeekofficial.com",
     icon: <LineChart className="h-6 w-6" />,
     image: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=800&auto=format&fit=crop"
