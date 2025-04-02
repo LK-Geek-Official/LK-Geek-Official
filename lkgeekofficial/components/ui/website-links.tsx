@@ -25,14 +25,14 @@ interface WebsiteLink {
 const websiteLinks: WebsiteLink[] = [
   {
     title: "About Me",
-    description: "The pride of Sri Lankan technical artists",
+    description: "Get to know about me",
     url: "https://aboutme.lkgeekofficial.com",
     icon: <User className="h-6 w-6" />,
     image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=800&auto=format&fit=crop"
   },
   {
     title: "LK Geek Tech",
-    description: "The pride of Sri Lankan technical artists",
+    description: "The pride of Sri Lankan technical art",
     url: "https://tech.lkgeekofficial.com",
     icon: <Cpu className="h-6 w-6" />,
     image: "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop"

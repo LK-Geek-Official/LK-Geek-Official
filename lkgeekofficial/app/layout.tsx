@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "LK Geek Official",
-  description: "The pride of Sri Lankan technical artists",
+  description: "The pride of Sri Lankan technical art",
 };
 
 export default function RootLayout({
